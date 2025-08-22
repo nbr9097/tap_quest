@@ -28,19 +28,16 @@ TapQuest is a tap-based reaction game where circular targets appear on the scree
   ## Project Structure
 
   lib/
-├── main.dart          # App entry point
-├── start_screen.dart  # Welcome and instructions screen
-├── game_screen.dart   # Main gameplay logic
-└── result_screen.dart # Score display and replay options
+-  main.dart          - App entry point
+-  start_screen.dart  - Welcome and instructions screen
+-  game_screen.dart   - Main gameplay logic
+-  result_screen.dart - Score display and replay options
 
 ## Project Screen shots
-
-Home Screen
-<img width="870" height="1886" alt="Screenshot 2025-08-22 122217" src="https://github.com/user-attachments/assets/3b5d4250-c0ce-495b-8a38-7cc54582afb7" />
-
-Game Screen
-<img width="886" height="1887" alt="Screenshot 2025-08-22 122303" src="https://github.com/user-attachments/assets/150518ba-6732-4ec8-b888-1dc44361b416" />
-
-Result Screen
-<img width="903" height="1877" alt="Screenshot 2025-08-22 122311" src="https://github.com/user-attachments/assets/fb7ef61c-5c3d-4635-9b0c-92d95fd91e03" />
+- Home Screen
+- <img width="200" height="500" alt="Screenshot 2025-08-22 122217" src="https://github.com/user-attachments/assets/3b5d4250-c0ce-495b-8a38-7cc54582afb7" />   
+- Game Screen
+- <img width="200" height="500" alt="Screenshot 2025-08-22 122303" src="https://github.com/user-attachments/assets/150518ba-6732-4ec8-b888-1dc44361b416" />
+- Result Screen
+- <img width="200" height="500" alt="Screenshot 2025-08-22 122311" src="https://github.com/user-attachments/assets/fb7ef61c-5c3d-4635-9b0c-92d95fd91e03" />
 
